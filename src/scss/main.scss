@@ -60,12 +60,12 @@ table {
   content: "";
 }
 @keyframes move {
-  from {
-    transform: rotateX(5deg);
+  0% {
+    transform: scalex(0.5);
   }
 
-  to {
-    transform: rotateX(10deg);
+  100% {
+    transform: scaley(1);
   }
 }
 
@@ -75,7 +75,7 @@ table {
   animation-duration: $duration;
   animation-iteration-count: infinite;
   animation-direction: alternate;
-  animation-timing-function: cubic-bezier(0.1, -0.6, random(1) + 0.2, 0);
+  animation-timing-function: linear;
 }
 @for $i from 1 through $stars-numb {
   td:nth-child(#{$i}) {
