@@ -67,12 +67,12 @@ td {
 }
 td:nth-child(1) #star-five {
   position: absolute;
-  top: 58vh;
-  left: 60vw;
-  bottom: 25vh;
-  right: 17vw;
+  top: 20vh;
+  left: 55vw;
+  bottom: 74vh;
+  right: 2vw;
   animation-name: move;
-  animation-duration: 2s;
+  animation-duration: 3s;
   animation-iteration-count: infinite;
   animation-direction: alternate;
   animation-timing-function: linear;
@@ -85,12 +85,12 @@ td:nth-child(2) {
 }
 td:nth-child(2) #star-five {
   position: absolute;
-  top: 80vh;
-  left: 7vw;
-  bottom: 40vh;
-  right: 22vw;
+  top: 55vh;
+  left: 15vw;
+  bottom: 71vh;
+  right: 77vw;
   animation-name: move;
-  animation-duration: 2s;
+  animation-duration: 3s;
   animation-iteration-count: infinite;
   animation-direction: alternate;
   animation-timing-function: linear;
@@ -99,12 +99,12 @@ td:nth-child(2) #star-five {
 
 td:nth-child(3) #star-five {
   position: absolute;
-  top: 26vh;
-  left: 82vw;
-  bottom: 52vh;
-  right: 10vw;
+  top: 44vh;
+  left: 15vw;
+  bottom: 80vh;
+  right: 54vw;
   animation-name: move;
-  animation-duration: 3s;
+  animation-duration: 2s;
   animation-iteration-count: infinite;
   animation-direction: alternate;
   animation-timing-function: linear;
@@ -112,17 +112,17 @@ td:nth-child(3) #star-five {
 }
 
 td:nth-child(4) {
-  height: 1.5rem;
-  width: 1rem;
+  height: 0.5rem;
+  width: 1.5rem;
 }
 td:nth-child(4) #star-five {
   position: absolute;
-  top: 83vh;
-  left: 64vw;
-  bottom: 68vh;
-  right: 29vw;
+  top: 36vh;
+  left: 17vw;
+  bottom: 9vh;
+  right: 41vw;
   animation-name: move;
-  animation-duration: 3s;
+  animation-duration: 4s;
   animation-iteration-count: infinite;
   animation-direction: alternate;
   animation-timing-function: linear;
@@ -131,12 +131,12 @@ td:nth-child(4) #star-five {
 
 td:nth-child(5) #star-five {
   position: absolute;
-  top: 25vh;
-  left: 23vw;
-  bottom: 63vh;
-  right: 32vw;
+  top: 21vh;
+  left: 89vw;
+  bottom: 64vh;
+  right: 27vw;
   animation-name: move;
-  animation-duration: 2s;
+  animation-duration: 3s;
   animation-iteration-count: infinite;
   animation-direction: alternate;
   animation-timing-function: linear;
@@ -149,10 +149,10 @@ td:nth-child(6) {
 }
 td:nth-child(6) #star-five {
   position: absolute;
-  top: 50vh;
-  left: 61vw;
-  bottom: 36vh;
-  right: 45vw;
+  top: 32vh;
+  left: 53vw;
+  bottom: 20vh;
+  right: 19vw;
   animation-name: move;
   animation-duration: 3s;
   animation-iteration-count: infinite;
@@ -163,12 +163,12 @@ td:nth-child(6) #star-five {
 
 td:nth-child(7) #star-five {
   position: absolute;
-  top: 3vh;
-  left: 53vw;
-  bottom: 2vh;
-  right: 73vw;
+  top: 60vh;
+  left: 2vw;
+  bottom: 28vh;
+  right: 55vw;
   animation-name: move;
-  animation-duration: 2s;
+  animation-duration: 3s;
   animation-iteration-count: infinite;
   animation-direction: alternate;
   animation-timing-function: linear;
@@ -177,14 +177,14 @@ td:nth-child(7) #star-five {
 
 td:nth-child(8) {
   height: 0.5rem;
-  width: 0.5rem;
+  width: 1.5rem;
 }
 td:nth-child(8) #star-five {
   position: absolute;
-  top: 38vh;
-  left: 31vw;
-  bottom: 20vh;
-  right: 78vw;
+  top: 42vh;
+  left: 85vw;
+  bottom: 68vh;
+  right: 30vw;
   animation-name: move;
   animation-duration: 4s;
   animation-iteration-count: infinite;
@@ -195,12 +195,12 @@ td:nth-child(8) #star-five {
 
 td:nth-child(9) #star-five {
   position: absolute;
-  top: 88vh;
-  left: 76vw;
-  bottom: 79vh;
-  right: 67vw;
+  top: 57vh;
+  left: 78vw;
+  bottom: 5vh;
+  right: 71vw;
   animation-name: move;
-  animation-duration: 4s;
+  animation-duration: 2s;
   animation-iteration-count: infinite;
   animation-direction: alternate;
   animation-timing-function: linear;
@@ -208,15 +208,15 @@ td:nth-child(9) #star-five {
 }
 
 td:nth-child(10) {
-  height: 1rem;
-  width: 1.5rem;
+  height: 0.5rem;
+  width: 1rem;
 }
 td:nth-child(10) #star-five {
   position: absolute;
-  top: 52vh;
-  left: 56vw;
-  bottom: 66vh;
-  right: 29vw;
+  top: 47vh;
+  left: 5vw;
+  bottom: 77vh;
+  right: 69vw;
   animation-name: move;
   animation-duration: 3s;
   animation-iteration-count: infinite;
@@ -227,28 +227,10 @@ td:nth-child(10) #star-five {
 
 td:nth-child(11) #star-five {
   position: absolute;
-  top: 49vh;
-  left: 17vw;
-  bottom: 54vh;
-  right: 25vw;
-  animation-name: move;
-  animation-duration: 2s;
-  animation-iteration-count: infinite;
-  animation-direction: alternate;
-  animation-timing-function: linear;
-  transform-origin: 0 100%;
-}
-
-td:nth-child(12) {
-  height: 0.5rem;
-  width: 1.5rem;
-}
-td:nth-child(12) #star-five {
-  position: absolute;
-  top: 76vh;
-  left: 55vw;
-  bottom: 9vh;
-  right: 10vw;
+  top: 37vh;
+  left: 15vw;
+  bottom: 48vh;
+  right: 38vw;
   animation-name: move;
   animation-duration: 4s;
   animation-iteration-count: infinite;
@@ -257,14 +239,32 @@ td:nth-child(12) #star-five {
   transform-origin: 0 100%;
 }
 
+td:nth-child(12) {
+  height: 1.5rem;
+  width: 0.5rem;
+}
+td:nth-child(12) #star-five {
+  position: absolute;
+  top: 2vh;
+  left: 20vw;
+  bottom: 56vh;
+  right: 24vw;
+  animation-name: move;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  animation-timing-function: linear;
+  transform-origin: 0 100%;
+}
+
 td:nth-child(13) #star-five {
   position: absolute;
-  top: 70vh;
-  left: 87vw;
-  bottom: 11vh;
-  right: 15vw;
+  top: 83vh;
+  left: 40vw;
+  bottom: 24vh;
+  right: 6vw;
   animation-name: move;
-  animation-duration: 3s;
+  animation-duration: 2s;
   animation-iteration-count: infinite;
   animation-direction: alternate;
   animation-timing-function: linear;
@@ -272,15 +272,15 @@ td:nth-child(13) #star-five {
 }
 
 td:nth-child(14) {
-  height: 0.5rem;
+  height: 1.5rem;
   width: 1rem;
 }
 td:nth-child(14) #star-five {
   position: absolute;
-  top: 62vh;
-  left: 37vw;
-  bottom: 26vh;
-  right: 66vw;
+  top: 90vh;
+  left: 83vw;
+  bottom: 51vh;
+  right: 20vw;
   animation-name: move;
   animation-duration: 4s;
   animation-iteration-count: infinite;
@@ -291,10 +291,28 @@ td:nth-child(14) #star-five {
 
 td:nth-child(15) #star-five {
   position: absolute;
-  top: 35vh;
-  left: 55vw;
-  bottom: 10vh;
-  right: 76vw;
+  top: 16vh;
+  left: 34vw;
+  bottom: 54vh;
+  right: 68vw;
+  animation-name: move;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  animation-timing-function: linear;
+  transform-origin: 0 100%;
+}
+
+td:nth-child(16) {
+  height: 1rem;
+  width: 1.5rem;
+}
+td:nth-child(16) #star-five {
+  position: absolute;
+  top: 73vh;
+  left: 85vw;
+  bottom: 21vh;
+  right: 72vw;
   animation-name: move;
   animation-duration: 3s;
   animation-iteration-count: infinite;
@@ -303,30 +321,12 @@ td:nth-child(15) #star-five {
   transform-origin: 0 100%;
 }
 
-td:nth-child(16) {
-  height: 1.5rem;
-  width: 1rem;
-}
-td:nth-child(16) #star-five {
-  position: absolute;
-  top: 48vh;
-  left: 37vw;
-  bottom: 26vh;
-  right: 41vw;
-  animation-name: move;
-  animation-duration: 4s;
-  animation-iteration-count: infinite;
-  animation-direction: alternate;
-  animation-timing-function: linear;
-  transform-origin: 0 100%;
-}
-
 td:nth-child(17) #star-five {
   position: absolute;
-  top: 48vh;
-  left: 67vw;
-  bottom: 2vh;
-  right: 67vw;
+  top: 72vh;
+  left: 26vw;
+  bottom: 63vh;
+  right: 80vw;
   animation-name: move;
   animation-duration: 4s;
   animation-iteration-count: infinite;
@@ -341,12 +341,12 @@ td:nth-child(18) {
 }
 td:nth-child(18) #star-five {
   position: absolute;
-  top: 42vh;
-  left: 1vw;
-  bottom: 7vh;
-  right: 42vw;
+  top: 69vh;
+  left: 66vw;
+  bottom: 28vh;
+  right: 69vw;
   animation-name: move;
-  animation-duration: 2s;
+  animation-duration: 4s;
   animation-iteration-count: infinite;
   animation-direction: alternate;
   animation-timing-function: linear;
@@ -355,12 +355,12 @@ td:nth-child(18) #star-five {
 
 td:nth-child(19) #star-five {
   position: absolute;
-  top: 61vh;
-  left: 74vw;
-  bottom: 54vh;
-  right: 37vw;
+  top: 62vh;
+  left: 43vw;
+  bottom: 70vh;
+  right: 63vw;
   animation-name: move;
-  animation-duration: 3s;
+  animation-duration: 2s;
   animation-iteration-count: infinite;
   animation-direction: alternate;
   animation-timing-function: linear;
@@ -373,12 +373,12 @@ td:nth-child(20) {
 }
 td:nth-child(20) #star-five {
   position: absolute;
-  top: 12vh;
-  left: 53vw;
-  bottom: 66vh;
-  right: 11vw;
+  top: 82vh;
+  left: 72vw;
+  bottom: 42vh;
+  right: 10vw;
   animation-name: move;
-  animation-duration: 2s;
+  animation-duration: 4s;
   animation-iteration-count: infinite;
   animation-direction: alternate;
   animation-timing-function: linear;
